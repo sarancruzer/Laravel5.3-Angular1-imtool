@@ -1,3 +1,4 @@
+
 # Laravel Angularjs JWTAuth Mysql 
 # Inventory Management Application
 
